@@ -1,1 +1,1 @@
-# Appium
+# Appium Mobile Automation Tool
